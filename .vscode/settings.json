@@ -22,7 +22,7 @@
       // Border color separating the Status Bar and editor
       "statusBar.border": "#ea00ff",
       // Border color to separate multiple editor groups from each other
-      "editorGroup.border": "#ffff00",
+      "editorGroup.border": "#ea00ff",
       // Border color of the editor group title header when tabs are enabled
       "editorGroupHeader.tabsBorder": "#18222D"
     },
