@@ -28,7 +28,7 @@
     },
     "editor.tokenColorCustomizations": {
         "comments": "#ffea00",
-        "keywords": "#00ff22",
+        "keywords": "#00FFFF",
         "strings": "#ff00ea",
         "types": "#00ff22",
         "functions": "#fffb00",
